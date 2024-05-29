@@ -3,6 +3,8 @@ Un site en PHP qui permet d'ajouter du texte avec un titre.
 
 En cadeau j'ai ajouter un system de connexion/inscription/Pin et de Mot de passe.
 
+[**Documentation de l'api**](https://github.com/Ducratif/api-Past)
+
 
 ### **Structure du Projet**
 
